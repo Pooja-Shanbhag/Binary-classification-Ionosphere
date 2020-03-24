@@ -1,4 +1,4 @@
-# Binary-classification-Ionosphere
+# Ionosphere - Binary Classification
 
 
 The purpose of this project is to predict whether there is a structure in the atmosphere or not given radar returns.
