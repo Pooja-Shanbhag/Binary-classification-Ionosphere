@@ -4,7 +4,7 @@
 The purpose of this project is to predict whether there is a structure in the atmosphere or not given radar returns.
 
 Dataset: Ionosphere Data Set : https://archive.ics.uci.edu/ml/datasets/Ionosphere
-https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.names
+information: https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.names
 This radar data was collected by a system in Goose Bay, Labrador.  This
 system consists of a phased array of 16 high-frequency antennas with a
 total transmitted power on the order of 6.4 kilowatts.  See the paper
