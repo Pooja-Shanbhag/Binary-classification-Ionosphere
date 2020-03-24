@@ -19,4 +19,3 @@ pulse numbers for the Goose Bay system.  Instances in this databse are
 described by 2 attributes per pulse number, corresponding to the complex
 values returned by the function resulting from the complex electromagnetic
 signal.
-
